@@ -1,3 +1,3 @@
-Because of Server Size Limited, more package and drivers please send us email:
-
-pibiger@163.com
+1,Third Party Software:
+https://www.jianguoyun.com/p/DTqubfkQpdSrBxjOnoQFIAA
+(Password : 6entbl)
