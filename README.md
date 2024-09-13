@@ -2,7 +2,7 @@
 
 - Pibiger SavvyCAN Series Products are SocketCAN devices;
 - Officially provide SavvyCAN Software support CAN FD;
-- Compatible with Busmaster,Socket CAN,PCAN(PCAN API),etc...
+- Compatible with Busmaster,Socket CAN,etc...
 - CAN FD bit rates from 25 kbit/s max up to 12Mbit/s;
 - Timestamp resolution up to tp 1μs;
 - Each CAN FD Signal&Power Separately isolated against USB Up to 2.5KV; 
