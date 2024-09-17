@@ -13,22 +13,16 @@
 
 
 #### Windows Software
-- [SavvyCAN FD](https://github.com/pibiger-tech/PU2CANFD-C/tree/main/For_Win_OpenSource/SavvyCAN-FD-Version "SavvyCAN FD")
+- [SavvyCAN FD](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkOVFVvzO53fwzjprHC3b%2Fuploads%2FXWsnIRO7RFNQBn8b8Hdv%2FSavvyCAN-FD.zip?alt=media&token=69a374d1-501b-4e08-abd3-9a4f8977f5a2 "SavvyCAN FD")
 
-#### Linux Software
-- [SavvyCAN Linux](https://github.com/collin80/SavvyCAN/releases/download/V208/SavvyCAN-x86_64.AppImage "SavvyCAN Linux")
-
-#### MacOs Software
-- [SavvyCAN Mac OS](https://github.com/collin80/SavvyCAN/releases/download/V208/SavvyCAN.dmg "SavvyCAN Mac OS")
-
-#### Software Source Code 
-- [SavvyCAN Source Code](https://github.com/collin80/SavvyCAN "Source Code")
 
 #### Third Party Software
 Third-party software is for testing only
 
 - [Linux Can-Utils](https://github.com/pibiger-tech/PU2CANFD-C/tree/main/For_Linux_SocketCAN)
 - [Windows Busmaster](https://rbei-etas.github.io/busmaster/ "Busmaster")
+- [SavvyCAN Linux](https://github.com/collin80/SavvyCAN/releases/download/V208/SavvyCAN-x86_64.AppImage "SavvyCAN Linux")
+- [SavvyCAN Mac OS](https://github.com/collin80/SavvyCAN/releases/download/V208/SavvyCAN.dmg "SavvyCAN Mac OS")
 
 
 #### [How To Use ]
